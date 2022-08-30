@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cdb2db75-9ef6-4386-a5bb-81bb0dadcab4",
+    "name": "Aventador",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "3994443e-4def-4199-9c1b-6b7950a7871d",
+    "name": "Volt",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "9d1363b7-9de5-45d8-8108-8b6a6fd9de88",
+    "name": "Cruze",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
